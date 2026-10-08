@@ -1,0 +1,6 @@
+{
+  "name": "Kore Studio - Multi-Screen Platform & Showcase",
+  "description": "Production-grade multi-screen web application with interactive screen switcher, real-time analytics, modular landing, and HTML & image hotlink importer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
